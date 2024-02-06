@@ -1,8 +1,8 @@
 {
-  "version": "3.0.1",
+  "version": "3.0.2",
   "name": "@itsikm/httpsnippet",
   "description": "HTTP Request snippet generator for *most* languages",
-  "author": "Kong <office@konghq.com>",
+  "author": "Kong <office@konghq.com>, Itsik <imaman@circle.com>",
   "homepage": "https://github.com/itsikcircle/httpsnippet",
   "license": "MIT",
   "main": "dist/httpsnippet.js",
@@ -45,10 +45,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kong/httpsnippet.git"
+    "url": "git+https://github.com/itsikcircle/httpsnippet.git"
   },
   "bugs": {
-    "url": "https://github.com/Kong/httpsnippet/issues"
+    "url": "https://github.com/itsikcircle/httpsnippet/issues"
   },
   "scripts": {
     "clean": "tsc --build tsconfig.build.json --clean",
