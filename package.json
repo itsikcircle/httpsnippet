@@ -3,7 +3,7 @@
   "name": "@itsikm/httpsnippet",
   "description": "HTTP Request snippet generator for *most* languages",
   "author": "Kong <office@konghq.com>",
-  "homepage": "https://github.com/Kong/httpsnippet",
+  "homepage": "https://github.com/itsikcircle/httpsnippet",
   "license": "MIT",
   "main": "dist/httpsnippet.js",
   "types": "dist/httpsnippet.d.ts",
