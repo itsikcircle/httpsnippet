@@ -1,5 +1,5 @@
 {
-  "version": "3.0.2",
+  "version": "3.0.3",
   "name": "@itsikm/httpsnippet",
   "description": "HTTP Request snippet generator for *most* languages",
   "author": "Kong <office@konghq.com>, Itsik <imaman@circle.com>",
@@ -41,7 +41,7 @@
     "xmlhttprequest"
   ],
   "engines": {
-    "node": "^14.19.1 || ^16.14.2 || ^18.0.0 || ^20.0.0"
+    "node": "^14.19.1 || ^16.14.2 || ^18.0.0 || ^20.0.0 || ^21.0.0"
   },
   "repository": {
     "type": "git",
