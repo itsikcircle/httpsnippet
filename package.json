@@ -1,13 +1,15 @@
 {
   "version": "3.0.1",
-  "name": "httpsnippet",
+  "name": "@itsikm/httpsnippet",
   "description": "HTTP Request snippet generator for *most* languages",
   "author": "Kong <office@konghq.com>",
   "homepage": "https://github.com/Kong/httpsnippet",
   "license": "MIT",
   "main": "dist/httpsnippet.js",
   "types": "dist/httpsnippet.d.ts",
-  "bin": "bin/httpsnippet",
+  "bin": {
+    "httpsnippet": "bin/httpsnippet"
+  },
   "keywords": [
     "api",
     "clojure",
@@ -41,7 +43,10 @@
   "engines": {
     "node": "^14.19.1 || ^16.14.2 || ^18.0.0 || ^20.0.0"
   },
-  "repository": "Kong/httpsnippet",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kong/httpsnippet.git"
+  },
   "bugs": {
     "url": "https://github.com/Kong/httpsnippet/issues"
   },
